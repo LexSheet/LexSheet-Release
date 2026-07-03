@@ -1,0 +1,571 @@
+THIRD-PARTY-LICENSES
+====================
+This file lists the production dependencies distributed with or installed by
+the Software. Build-time development dependencies are not distributed and are
+not included here. The Node.js runtime bundled with this Software is provided
+under the terms set out in the runtime\LICENSE file within the installation
+directory.
+
+====================
+
+├─ @fast-csv/format@4.3.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/C2FO/fast-csv
+│  └─ publisher: doug-martin
+├─ @fast-csv/parse@4.3.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/C2FO/fast-csv
+│  └─ publisher: doug-martin
+├─ @img/colour@1.1.0
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/lovell/colour
+├─ @img/sharp-win32-x64@0.34.5
+│  ├─ licenses: Apache-2.0 AND LGPL-3.0-or-later
+│  ├─ repository: https://github.com/lovell/sharp
+│  └─ publisher: Lovell Fuller
+├─ @next/env@15.5.19
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/vercel/next.js
+│  ├─ publisher: Next.js Team
+│  └─ licenseText:
+│     MIT License
+│     
+│     Copyright (c) Next.js Team
+│     
+│     Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+│     
+│     The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+│     
+│     THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+│     
+│     [Note: No separate LICENSE file exists in this package. MIT licence inferred from package.json licence field and/or author history.]
+├─ @next/swc-win32-x64-msvc@15.5.19
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/vercel/next.js
+│  └─ licenseText:
+│     MIT License
+│     
+│     Copyright (c) the respective copyright holders
+│     
+│     Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+│     
+│     The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+│     
+│     THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+│     
+│     [Note: No separate LICENSE file exists in this package. MIT licence inferred from package.json licence field and/or author history.]
+├─ @pdf-lib/fontkit@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Hopding/fontkit
+│  ├─ publisher: Andrew Dillon
+│  └─ licenseText:
+│     MIT License
+│     
+│     Copyright (c) Andrew Dillon
+│     
+│     Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+│     
+│     The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+│     
+│     THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+│     
+│     [Note: No separate LICENSE file exists in this package. MIT licence inferred from package.json licence field and/or author history.]
+├─ @pdf-lib/standard-fonts@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Hopding/standard-fonts
+│  └─ publisher: Andrew Dillon
+├─ @pdf-lib/upng@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Hopding/upng
+│  └─ publisher: photopea
+├─ @swc/helpers@0.5.15
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/swc-project/swc
+│  └─ publisher: 강동윤
+├─ @types/node@14.18.63
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+├─ @types/node@20.19.43
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+├─ archiver-utils@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/archiverjs/archiver-utils
+│  └─ publisher: Chris Talkington
+├─ archiver-utils@3.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/archiverjs/archiver-utils
+│  └─ publisher: Chris Talkington
+├─ archiver@5.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/archiverjs/node-archiver
+│  └─ publisher: Chris Talkington
+├─ async@3.2.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/caolan/async
+│  └─ publisher: Caolan McMahon
+├─ balanced-match@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/juliangruber/balanced-match
+│  └─ publisher: Julian Gruber
+├─ base64-js@1.5.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/beatgammit/base64-js
+│  └─ publisher: T. Jameson Little
+├─ big-integer@1.6.52
+│  ├─ licenses: Unlicense
+│  ├─ repository: https://github.com/peterolson/BigInteger.js
+│  └─ publisher: Peter Olson
+├─ binary@0.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-binary
+│  ├─ publisher: James Halliday
+│  └─ licenseText:
+│     MIT License
+│     
+│     Copyright (c) James Halliday
+│     
+│     Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+│     
+│     The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+│     
+│     THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+│     
+│     [Note: No separate LICENSE file exists in this package. MIT licence inferred from package.json licence field and/or author history.]
+├─ bl@4.1.0
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/rvagg/bl
+├─ bluebird@3.4.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/petkaantonov/bluebird
+│  └─ publisher: Petka Antonov
+├─ brace-expansion@1.1.15
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/juliangruber/brace-expansion
+│  └─ publisher: Julian Gruber
+├─ brace-expansion@2.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/juliangruber/brace-expansion
+│  └─ publisher: Julian Gruber
+├─ buffer-crc32@0.2.13
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/brianloveswords/buffer-crc32
+│  └─ publisher: Brian J. Brennan
+├─ buffer-indexof-polyfill@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sarosia/buffer-indexof-polyfill
+│  └─ publisher: https://github.com/sarosia
+├─ buffer@5.7.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/feross/buffer
+│  └─ publisher: Feross Aboukhadijeh
+├─ buffers@0.1.1
+│  ├─ licenses: Custom: http://github.com/substack/node-bufferlist
+│  ├─ repository: https://github.com/substack/node-buffers
+│  └─ publisher: James Halliday
+├─ caniuse-lite@1.0.30001799
+│  ├─ licenses: CC-BY-4.0
+│  ├─ repository: https://github.com/browserslist/caniuse-lite
+│  └─ publisher: Ben Briggs
+├─ chainsaw@0.1.0
+│  ├─ licenses: MIT*
+│  ├─ repository: https://github.com/substack/node-chainsaw
+│  ├─ publisher: James Halliday
+│  └─ licenseText:
+│     MIT License
+│     
+│     Copyright (c) James Halliday
+│     
+│     Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+│     
+│     The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+│     
+│     THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+│     
+│     [Note: No LICENSE file exists. MIT licence inferred from author history.]
+├─ client-only@0.0.1
+│  └─ licenses: MIT
+├─ compress-commons@4.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/archiverjs/node-compress-commons
+│  └─ publisher: Chris Talkington
+├─ concat-map@0.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-concat-map
+│  └─ publisher: James Halliday
+├─ core-util-is@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/isaacs/core-util-is
+│  └─ publisher: Isaac Z. Schlueter
+├─ crc-32@1.2.2
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/SheetJS/js-crc32
+│  └─ publisher: sheetjs
+├─ crc32-stream@4.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/archiverjs/node-crc32-stream
+│  └─ publisher: Chris Talkington
+├─ dayjs@1.11.21
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/iamkun/dayjs
+│  └─ publisher: iamkun
+├─ detect-libc@2.1.2
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/lovell/detect-libc
+│  └─ publisher: Lovell Fuller
+├─ docx@8.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/dolanmiu/docx
+│  └─ publisher: Dolan Miu
+├─ duplexer2@0.1.4
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/deoxxa/duplexer2
+│  └─ publisher: Conrad Pankoff
+├─ end-of-stream@1.4.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/end-of-stream
+│  └─ publisher: Mathias Buus
+├─ exceljs@4.4.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/exceljs/exceljs
+│  └─ publisher: Guyon Roche
+├─ fast-csv@4.3.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/C2FO/fast-csv
+│  └─ publisher: Doug Martin
+├─ fs-constants@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/fs-constants
+│  └─ publisher: Mathias Buus
+├─ fs.realpath@1.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/fs.realpath
+│  └─ publisher: Isaac Z. Schlueter
+├─ fstream@1.0.12
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/fstream
+│  └─ publisher: Isaac Z. Schlueter
+├─ glob@7.2.3
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-glob
+│  └─ publisher: Isaac Z. Schlueter
+├─ graceful-fs@4.2.11
+│  ├─ licenses: ISC
+│  └─ repository: https://github.com/isaacs/node-graceful-fs
+├─ ieee754@1.2.1
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/feross/ieee754
+│  └─ publisher: Feross Aboukhadijeh
+├─ immediate@3.0.6
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/calvinmetcalf/immediate
+├─ inflight@1.0.6
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/inflight
+│  └─ publisher: Isaac Z. Schlueter
+├─ inherits@2.0.4
+│  ├─ licenses: ISC
+│  └─ repository: https://github.com/isaacs/inherits
+├─ isarray@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/juliangruber/isarray
+│  ├─ publisher: Julian Gruber
+│  └─ licenseText:
+│     MIT License
+│     
+│     Copyright (c) Julian Gruber
+│     
+│     Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+│     
+│     The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+│     
+│     THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+│     
+│     [Note: No LICENSE file exists. MIT licence inferred from author history.]
+├─ jszip@3.10.1
+│  ├─ licenses: (MIT OR GPL-3.0-or-later)
+│  ├─ repository: https://github.com/Stuk/jszip
+│  └─ publisher: Stuart Knightley
+├─ lazystream@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jpommerening/node-lazystream
+│  └─ publisher: Jonas Pommerening
+├─ lie@3.3.0
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/calvinmetcalf/lie
+├─ listenercount@1.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/jden/node-listenercount
+│  └─ publisher: jden
+├─ lodash.defaults@4.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ publisher: John-David Dalton
+├─ lodash.difference@4.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ publisher: John-David Dalton
+├─ lodash.escaperegexp@4.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ publisher: John-David Dalton
+├─ lodash.flatten@4.4.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ publisher: John-David Dalton
+├─ lodash.groupby@4.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ publisher: John-David Dalton
+├─ lodash.isboolean@3.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ publisher: John-David Dalton
+├─ lodash.isequal@4.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ publisher: John-David Dalton
+├─ lodash.isfunction@3.0.9
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ publisher: John-David Dalton
+├─ lodash.isnil@4.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ publisher: John-David Dalton
+├─ lodash.isplainobject@4.0.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ publisher: John-David Dalton
+├─ lodash.isundefined@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ publisher: John-David Dalton
+├─ lodash.union@4.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ publisher: John-David Dalton
+├─ lodash.uniq@4.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ publisher: John-David Dalton
+├─ lucide-react@1.21.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/lucide-icons/lucide
+│  └─ publisher: Eric Fennis
+├─ minimatch@3.1.5
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/minimatch
+│  └─ publisher: Isaac Z. Schlueter
+├─ minimatch@5.1.9
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/minimatch
+│  └─ publisher: Isaac Z. Schlueter
+├─ minimist@1.2.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/minimistjs/minimist
+│  └─ publisher: James Halliday
+├─ mkdirp@0.5.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-mkdirp
+│  └─ publisher: James Halliday
+├─ nanoid@3.3.13
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ai/nanoid
+│  └─ publisher: Andrey Sitnik
+├─ nanoid@5.1.14
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ai/nanoid
+│  └─ publisher: Andrey Sitnik
+├─ next@15.5.19
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/vercel/next.js
+├─ normalize-path@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/normalize-path
+│  └─ publisher: Jon Schlinkert
+├─ once@1.4.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/once
+│  └─ publisher: Isaac Z. Schlueter
+├─ pako@1.0.11
+│  ├─ licenses: (MIT AND Zlib)
+│  └─ repository: https://github.com/nodeca/pako
+├─ path-is-absolute@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/path-is-absolute
+│  └─ publisher: Sindre Sorhus
+├─ pdf-lib@1.17.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Hopding/pdf-lib
+│  └─ publisher: Andrew Dillon
+├─ picocolors@1.1.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/alexeyraspopov/picocolors
+│  └─ publisher: Alexey Raspopov
+├─ postcss@8.4.31
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/postcss/postcss
+│  └─ publisher: Andrey Sitnik
+├─ process-nextick-args@2.0.1
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/calvinmetcalf/process-nextick-args
+├─ react-dom@19.2.7
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/facebook/react
+├─ react@19.2.7
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/facebook/react
+├─ readable-stream@2.3.8
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/nodejs/readable-stream
+├─ readable-stream@3.6.2
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/nodejs/readable-stream
+├─ readdir-glob@1.1.3
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/Yqnn/node-readdir-glob
+│  └─ publisher: Yann Armelin
+├─ rimraf@2.7.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/rimraf
+│  └─ publisher: Isaac Z. Schlueter
+├─ safe-buffer@5.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/feross/safe-buffer
+│  └─ publisher: Feross Aboukhadijeh
+├─ safe-buffer@5.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/feross/safe-buffer
+│  └─ publisher: Feross Aboukhadijeh
+├─ sax@1.6.0
+│  ├─ licenses: BlueOak-1.0.0
+│  ├─ repository: https://github.com/isaacs/sax-js
+│  └─ publisher: Isaac Z. Schlueter
+├─ saxes@5.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/lddubeau/saxes
+│  ├─ publisher: Louis-Dominique Dubeau
+│  └─ licenseText:
+│     MIT License
+│     
+│     Copyright (c) Louis-Dominique Dubeau
+│     
+│     Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+│     
+│     The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+│     
+│     THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+│     
+│     [Note: No separate LICENSE file exists in this package. MIT licence inferred from package.json licence field and/or author history.]
+├─ scheduler@0.27.0
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/facebook/react
+├─ semver@7.8.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/node-semver
+│  └─ publisher: GitHub Inc.
+├─ setimmediate@1.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/YuzuJS/setImmediate
+│  └─ publisher: YuzuJS
+├─ sharp@0.34.5
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/lovell/sharp
+│  └─ publisher: Lovell Fuller
+├─ source-map-js@1.2.1
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/7rulnik/source-map-js
+│  └─ publisher: Valentin 7rulnik Semirulnik
+├─ string_decoder@1.1.1
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/nodejs/string_decoder
+├─ string_decoder@1.3.0
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/nodejs/string_decoder
+├─ styled-jsx@5.1.6
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/vercel/styled-jsx
+├─ tar-stream@2.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/tar-stream
+│  └─ publisher: Mathias Buus
+├─ tmp@0.2.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/raszi/node-tmp
+│  └─ publisher: KARASZI István
+├─ traverse@0.3.9
+│  ├─ licenses: MIT*
+│  ├─ repository: https://github.com/substack/js-traverse
+│  └─ publisher: James Halliday
+├─ tslib@1.14.1
+│  ├─ licenses: 0BSD
+│  ├─ repository: https://github.com/Microsoft/tslib
+│  └─ publisher: Microsoft Corp.
+├─ tslib@2.8.1
+│  ├─ licenses: 0BSD
+│  ├─ repository: https://github.com/Microsoft/tslib
+│  └─ publisher: Microsoft Corp.
+├─ undici-types@6.21.0
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/nodejs/undici
+├─ unzipper@0.10.14
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ZJONSSON/node-unzipper
+│  └─ publisher: Evan Oxfeld
+├─ util-deprecate@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TooTallNate/util-deprecate
+│  └─ publisher: Nathan Rajlich
+├─ uuid@8.3.2
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/uuidjs/uuid
+├─ wrappy@1.0.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/wrappy
+│  └─ publisher: Isaac Z. Schlueter
+├─ xml-js@1.6.11
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nashwaan/xml-js
+│  └─ publisher: Yousuf Almarzooqi
+├─ xml@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/dylang/node-xml
+│  └─ publisher: Dylan Greene
+├─ xmlchars@2.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lddubeau/xmlchars
+│  └─ publisher: Louis-Dominique Dubeau
+├─ zip-stream@4.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/archiverjs/node-zip-stream
+│  └─ publisher: Chris Talkington
+
+---
+SPECIAL ANNOTATIONS
+---
+
+jszip
+License: MIT (selected)
+Note: jszip is dual-licensed under MIT OR GPL-3.0-or-later. This software uses jszip under the MIT License.
+License text: https://github.com/Stuk/jszip/blob/main/LICENSE.markdown
+
+@img/sharp-win32-x64
+License: Apache-2.0 AND LGPL-3.0-or-later
+Note: This package is an indirect dependency of Next.js (image optimisation). It is not called directly by application code.
+License text: https://www.gnu.org/licenses/lgpl-3.0.txt
+
+buffers@0.1.1
+License: MIT (inferred)
+Note: This package has no LICENSE file. Based on the project history of its author (James Halliday, aka substack), the MIT License is inferred.
+License text: https://github.com/substack/node-buffers
+
+chainsaw@0.1.0
+License: MIT (inferred)
+Note: This package has no LICENSE file. Based on the project history of its author (James Halliday, aka substack), the MIT License is inferred.
+License text: https://github.com/substack/node-chainsaw
+
+isarray@1.0.0
+License: MIT (inferred)
+Note: This package has no LICENSE file. Based on the author (Julian Gruber), the MIT License is inferred from the package.json licence field.
+License text: https://github.com/juliangruber/isarray
