@@ -73,7 +73,7 @@ Commercial legal billing software is often expensive and feature-bloated. LexShe
 
 ## Download
 
-👉 **[Download Latest Release](../../releases/latest)**
+👉 **[Download Latest Release](https://github.com/LexSheet/LexSheet-Release/releases/latest)**
 
 > By downloading the Software, you agree to the terms of the [LICENSE (English)](./LICENSE.md) / [许可证（中文，以此为准）](./LICENSE-cn.md). The Chinese version prevails in case of inconsistency.
 
